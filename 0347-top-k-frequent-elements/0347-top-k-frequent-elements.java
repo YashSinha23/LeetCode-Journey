@@ -7,12 +7,21 @@ class Solution {
             map.put(num,map.getOrDefault(num , 0)+1);
         }
 
-        PriorityQueue<Integer> maxheap = new PriorityQueue<>((a,b) -> map.get(b) - map.get(a));
-        maxheap.addAll(map.keySet());
+        PriorityQueue<Integer> minheap = new PriorityQueue<>((a,b) -> map.get(a) - map.get(b));
         
-        for(int i=0; i<k;i++){
-            result[i] = maxheap.poll();
+        for(int key : map.keySet()){
+            minheap.add(key);
+
+            if(minheap.size()>k){
+                minheap.poll();
+            }
         }
+
+        for(int i=k-1; i>=0; i--){
+            result[i] = minheap.poll();
+        }
+
+
 
         return result;
     }
