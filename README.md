@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0567-permutation-in-string](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0567-permutation-in-string/) | Medium |
 ## Design
