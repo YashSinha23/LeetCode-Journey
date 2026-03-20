@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1652-defuse-the-bomb](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2653-sliding-subarray-beauty/) | Medium |
 ## Divide and Conquer
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1652-defuse-the-bomb](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2653-sliding-subarray-beauty/) | Medium |
 ## Dynamic Programming
