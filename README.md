@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0704-binary-search](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0704-binary-search](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
