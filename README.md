@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1512-number-of-good-pairs](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2653-sliding-subarray-beauty/) | Medium |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1512-number-of-good-pairs](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
