@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0704-binary-search](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
