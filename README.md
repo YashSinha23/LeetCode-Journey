@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0162-find-peak-element/) | Medium |
 | [0278-first-bad-version](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0367-valid-perfect-square/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0441-arranging-coins](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0441-arranging-coins/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -237,4 +238,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0278-first-bad-version/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
