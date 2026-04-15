@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0162-find-peak-element/) | Medium |
+| [0278-first-bad-version](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0367-valid-perfect-square/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0441-arranging-coins](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0441-arranging-coins/) | Easy |
@@ -232,4 +233,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
