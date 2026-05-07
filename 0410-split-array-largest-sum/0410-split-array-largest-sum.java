@@ -2,7 +2,6 @@ class Solution {
     public int splitArray(int[] nums, int k) {
         int left = 0;
         int right = 0;
-        ArrayList<Integer> list = new ArrayList<>();
         for(int num : nums){
             left = Math.max(num,left);
             right += num;
@@ -19,7 +18,6 @@ class Solution {
                     sum = num;
                     subarray++;
                 }
-                max = Math.max(max,sum);
             }
             if(subarray > k){
                 left = mid + 1;
