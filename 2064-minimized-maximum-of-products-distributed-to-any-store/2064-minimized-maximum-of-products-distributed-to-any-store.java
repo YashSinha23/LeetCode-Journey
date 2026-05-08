@@ -12,7 +12,7 @@ class Solution {
             int ns = 0;
             int remst = n;
             for(int num : quantities){
-                ns = (int)Math.ceil((double)num/mid);
+                ns = (num + mid - 1) / mid;
                 remst = remst - ns; 
             }
             if(remst >= 0){
