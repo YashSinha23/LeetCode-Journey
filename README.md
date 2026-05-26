@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -256,4 +258,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
