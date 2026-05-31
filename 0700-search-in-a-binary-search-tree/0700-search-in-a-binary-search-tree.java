@@ -15,24 +15,20 @@
  */
 class Solution {
     public TreeNode searchBST(TreeNode root, int val) {
-        return helper(root,val);
-    }
+        TreeNode curr = root;
 
-    public TreeNode helper(TreeNode root, int val){
-        if(root == null){
-            return null;
+        while(curr != null){
+            if(curr.val == val){
+                return curr;
+            }
+
+            if(curr.val < val){
+                curr = curr.right;
+            } else {
+                curr = curr.left;
+            }
         }
 
-        if(root.val == val){
-            return root;
-        }
-
-        TreeNode left = helper(root.left,val);
-
-        if(left != null){
-            return left;
-        }
-
-        return helper(root.right,val);
+        return null;
     }
 }
