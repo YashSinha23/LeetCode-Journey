@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0162-find-peak-element/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -201,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -211,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
