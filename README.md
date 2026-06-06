@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -331,4 +334,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0654-maximum-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0113-path-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
