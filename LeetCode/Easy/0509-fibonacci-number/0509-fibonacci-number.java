@@ -1,17 +1,25 @@
 class Solution {
     public int fib(int n) {
-        int res = 0;
+        int[] dp = new int[n+1];
+        Arrays.fill(dp,-1);
+
+        return helper(n, dp);
+    }
+
+    private int helper(int n, int[] dp){
         if(n == 0){
-            res += 0;
-            return res;
-        } 
+            return 0;
+        }
         if(n == 1){
-            res += 1;
-            return res;
+            return 1;
         }
 
-        res += fib(n-1) + fib(n-2);
+        if(dp[n] != -1){
+            return dp[n];
+        }
 
-        return res;
+        dp[n] = helper(n-1, dp) + helper(n-2, dp);
+
+        return dp[n];
     }
 }
