@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0441-arranging-coins/) | Easy |
+| [0509-fibonacci-number](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0509-fibonacci-number](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -365,4 +367,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
