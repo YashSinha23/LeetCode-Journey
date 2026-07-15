@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
