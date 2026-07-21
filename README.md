@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1260-shift-2d-grid](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [1260-shift-2d-grid](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/1646-get-maximum-in-generated-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
