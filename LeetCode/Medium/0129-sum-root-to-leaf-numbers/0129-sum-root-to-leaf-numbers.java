@@ -20,9 +20,9 @@ class Solution {
         return sum;
     }
 
-    public TreeNode helper(TreeNode root, String str){
+    public void helper(TreeNode root, String str){
         if(root == null){
-            return null;
+            return;
         }
 
         int val = root.val;
@@ -35,6 +35,6 @@ class Solution {
         helper(root.left, str);
         helper(root.right, str);
 
-        return null;
+        return;
     }
 }
