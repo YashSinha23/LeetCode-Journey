@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -272,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
