@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
@@ -365,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
@@ -378,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0112-path-sum/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
