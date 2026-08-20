@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0409-longest-palindrome](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0409-longest-palindrome/) | Easy |
 | [0567-permutation-in-string](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0567-permutation-in-string/) | Medium |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0567-permutation-in-string](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0567-permutation-in-string/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0160-intersection-of-two-linked-lists](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
