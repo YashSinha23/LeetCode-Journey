@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2653-sliding-subarray-beauty](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2653-sliding-subarray-beauty/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
