@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2653-sliding-subarray-beauty](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2653-sliding-subarray-beauty/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 ## Divide and Conquer
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Geometry
