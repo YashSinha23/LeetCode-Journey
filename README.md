@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-get-maximum-in-generated-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/1646-get-maximum-in-generated-array/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2653-sliding-subarray-beauty/) | Medium |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
