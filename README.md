@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -435,4 +437,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
