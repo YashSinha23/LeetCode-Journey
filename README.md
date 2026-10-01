@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0409-longest-palindrome](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0409-longest-palindrome/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0621-task-scheduler](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0621-task-scheduler/) | Medium |
