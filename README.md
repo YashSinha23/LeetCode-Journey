@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0257-binary-tree-paths](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
 | [0409-longest-palindrome](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0409-longest-palindrome/) | Easy |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -430,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0113-path-sum-ii](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
@@ -458,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
