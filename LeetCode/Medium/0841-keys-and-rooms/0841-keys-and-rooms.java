@@ -1,7 +1,6 @@
 class Solution {
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
         boolean[] isOpen = new boolean[rooms.size()];
-        HashSet<Integer> set = new HashSet<>();
         Queue<Integer> queue = new ArrayDeque<>();
 
         queue.add(0);
@@ -12,11 +11,10 @@ class Solution {
             List<Integer> inner = rooms.get(index);
 
             for(int num : inner){
-                if(set.contains(num)){
+                if(isOpen[num] == true){
                     continue;
                 }else{
                     queue.add(num);
-                    set.add(num);
                     isOpen[num] = true;
                 }
             }
