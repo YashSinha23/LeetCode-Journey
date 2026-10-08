@@ -1,27 +1,44 @@
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        int original = image[sr][sc];
+        Queue<int[]> queue = new ArrayDeque<>();
 
-        if(original == color){
+        int ogclr = image[sr][sc];
+
+        if (ogclr == color) {
             return image;
+        } else {
+            queue.add(new int[] { sr, sc });
         }
 
-        dfs(image, sr, sc, original, color);
+        int row = image.length;
+        int col = image[0].length;
+
+        while (!queue.isEmpty()) {
+            int curr[] = queue.poll();
+
+            int r = curr[0];
+            int c = curr[1];
+
+            image[r][c] = color;
+
+            if (r - 1 >= 0 && image[r - 1][c] == ogclr) {
+                image[r - 1][c] = color;
+                queue.add(new int[] { r - 1, c });
+            }
+            if (r + 1 < row && image[r + 1][c] == ogclr) {
+                image[r + 1][c] = color;
+                queue.add(new int[] { r + 1, c });
+            }
+            if (c - 1 >= 0 && image[r][c - 1] == ogclr) {
+                image[r][c - 1] = color;
+                queue.add(new int[] { r, c - 1 });
+            }
+            if (c + 1 < col && image[r][c + 1] == ogclr) {
+                image[r][c + 1] = color;
+                queue.add(new int[] { r, c + 1 });
+            }
+        }
 
         return image;
-    }
-
-    public void dfs (int[][] image, int row, int col, int original, int color){
-        if( row < 0 || row >= image.length ||
-            col < 0 || col >= image[0].length ||
-            image[row][col] != original){
-                return;
-            }
-        image[row][col] = color;
-
-        dfs(image, row - 1, col, original, color);
-        dfs(image, row + 1, col, original, color);
-        dfs(image, row, col - 1, original, color);
-        dfs(image, row, col + 1, original, color);
     }
 }
