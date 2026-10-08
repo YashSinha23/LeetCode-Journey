@@ -10,7 +10,7 @@ class Solution {
             for(int j=0; j<cols; j++){
                 if(grid[i][j] == '1' && visited[i][j] == false){
                     count++;
-                    dfs(i,j,visited,grid);
+                    bfs(i,j,visited,grid);
                 }
             }
         }
@@ -18,16 +18,34 @@ class Solution {
         return count;
     }
 
-    public void dfs(int row, int col, boolean[][] visited, char[][] grid){
-        if(row < 0 || row >= grid.length || col < 0 || col >= grid[0].length || visited[row][col] == true || grid[row][col] == '0'){
-            return;
-        }
+    public void bfs(int row, int col, boolean[][] visited, char[][] grid){
+        Queue<int[]> queue = new ArrayDeque<>();
+        queue.add(new int[]{row,col});
 
-        visited[row][col] = true;
-        
-        dfs(row-1, col, visited, grid);
-        dfs(row+1, col, visited, grid);
-        dfs(row, col-1, visited, grid);
-        dfs(row, col+1, visited, grid);
+        while(!queue.isEmpty()){
+            int[] curr = queue.poll();
+
+            int r = curr[0];
+            int c = curr[1];
+
+            visited[curr[0]][curr[1]] = true;
+
+            if(r > 0 && grid[r-1][c] == '1' && visited[r-1][c] == false){
+                visited[r-1][c] = true;
+                queue.add(new int[]{r-1, c});
+            }
+            if(r < grid.length - 1 && grid[r+1][c] == '1' && visited[r+1][c] == false){
+                visited[r+1][c] = true;
+                queue.add(new int[]{r+1, c});
+            }
+            if(c > 0 && grid[r][c-1] == '1' && visited[r][c-1] == false){
+                visited[r][c-1] = true;
+                queue.add(new int[]{r, c-1});
+            }
+            if(c < grid[0].length - 1 && grid[r][c+1] == '1' && visited[r][c+1] == false){
+                visited[r][c+1] = true;
+                queue.add(new int[]{r, c+1});
+            }
+        }
     }
 }
