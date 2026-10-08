@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0162-find-peak-element/) | Medium |
+| [0200-number-of-islands](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [1260-shift-2d-grid](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
@@ -421,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
@@ -439,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0733-flood-fill](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0841-keys-and-rooms/) | Medium |
@@ -493,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
