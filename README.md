@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0695-max-area-of-island](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0733-flood-fill](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0695-max-area-of-island](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [1260-shift-2d-grid](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 ## Math
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0695-max-area-of-island](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0841-keys-and-rooms/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
@@ -444,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
+| [0695-max-area-of-island](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0841-keys-and-rooms/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -498,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
