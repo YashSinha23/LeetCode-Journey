@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0130-surrounded-regions](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0162-find-peak-element/) | Medium |
 | [0200-number-of-islands](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0130-surrounded-regions](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
@@ -426,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0130-surrounded-regions](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
@@ -447,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0112-path-sum/) | Easy |
+| [0130-surrounded-regions](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
@@ -505,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
