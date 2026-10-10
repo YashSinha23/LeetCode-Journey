@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2090-k-radius-subarray-averages](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -348,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
