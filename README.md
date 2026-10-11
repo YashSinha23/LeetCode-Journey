@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2559-count-vowel-strings-in-ranges](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2653-sliding-subarray-beauty](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2653-sliding-subarray-beauty/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -533,4 +534,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0841-keys-and-rooms](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
