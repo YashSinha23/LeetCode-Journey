@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0733-flood-fill](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0752-open-the-lock](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0752-open-the-lock/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0752-open-the-lock](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0752-open-the-lock/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0567-permutation-in-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0752-open-the-lock](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0752-open-the-lock/) | Medium |
 | [0856-score-of-parentheses](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
@@ -473,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
+| [0752-open-the-lock](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0752-open-the-lock/) | Medium |
 | [0841-keys-and-rooms](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -541,4 +545,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0752-open-the-lock](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0752-open-the-lock/) | Medium |
 <!---LeetCode Topics End-->
