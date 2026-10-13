@@ -460,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
@@ -483,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0542-01-matrix](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
@@ -551,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
 | [0841-keys-and-rooms](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Enumeration
@@ -570,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
