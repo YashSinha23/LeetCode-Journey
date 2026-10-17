@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
