@@ -475,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0841-keys-and-rooms/) | Medium |
@@ -496,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0542-01-matrix](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
+| [0684-redundant-connection](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0752-open-the-lock](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0752-open-the-lock/) | Medium |
@@ -556,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0684-redundant-connection](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
@@ -563,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
+| [0684-redundant-connection](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0841-keys-and-rooms](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Enumeration
