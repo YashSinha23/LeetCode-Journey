@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/YashSinha23/LeetCode-Journey/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/YashSinha23/LeetCode-Journey/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/YashSinha23/LeetCode-Journey/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/YashSinha23/LeetCode-Journey/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
